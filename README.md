@@ -12,5 +12,5 @@ iOS 8+。
 ## 安装使用
 
 ```ruby
-pod 'WIKit'
+pod 'WIUtility'
 ```
