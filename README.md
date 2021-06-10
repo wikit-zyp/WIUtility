@@ -5,25 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/WIUtility.svg?style=flat)](https://cocoapods.org/pods/WIUtility)
 [![Platform](https://img.shields.io/cocoapods/p/WIUtility.svg?style=flat)](https://cocoapods.org/pods/WIUtility)
 
-## Example
+## 支持iOS版本
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+iOS 8+。
 
-## Requirements
-
-## Installation
-
-WIUtility is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+## 安装使用
 
 ```ruby
-pod 'WIUtility'
+pod 'WIKit'
 ```
-
-## Author
-
-zyp, me_zyp@163.com
-
-## License
-
-WIUtility is available under the MIT license. See the LICENSE file for more info.

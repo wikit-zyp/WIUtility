@@ -1,0 +1,16 @@
+PODS:
+  - WIUtility (0.1.9)
+
+DEPENDENCIES:
+  - WIUtility (from `../`)
+
+EXTERNAL SOURCES:
+  WIUtility:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WIUtility: b25f5f83984bf99f2ef1c1f2206c839cf510e49e
+
+PODFILE CHECKSUM: 4a09573a91f6c4c43d00388bf8b710701c5ea22c
+
+COCOAPODS: 1.10.1
