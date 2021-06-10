@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WIUtility_Tests' do
+  pod 'WIUtility', :path => '../'
+  
+  
+end
